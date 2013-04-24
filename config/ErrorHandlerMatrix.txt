@@ -1,0 +1,15 @@
+# Possible Actions
+# 0 NoResubmission
+# 1 DelayedResubmission
+# 2 ResubmitElsewhere
+
+# Comment Line
+
+# ExeExitStatus WrapperExitStatus Action
+None  None  1
+50117 None  1
+50117 10020 2
+50117 10030 2
+50117 10034 2
+0     60307 2
+8020  ANY   2

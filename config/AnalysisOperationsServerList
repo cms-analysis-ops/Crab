@@ -1,0 +1,25 @@
+## Inclusice list of Crab servers operated by Analysis Operations
+## not all of these are active for users at all times
+# comment line
+# name minVersion (2.4.4)-maXversion schedulerSupported
+# if min or max version is empty, no limit
+# eg: cern 2.4.4- glite
+# means cern, version>=2.4.4 works with glite
+#
+# name mapping as of March 2011
+# cern=vocms58   slc5cern=vocms21 slc5caf=vocms22
+# ucsd=submit-2 slc5ucsd=glidein-2
+#
+#caf 2.7.3- caf
+cern_vocms20 2.7.3- glite
+cern_vocms21 2.7.3- glite
+cern_vocms22 2.7.3- glite
+cern_vocms83 2.7.3- glite
+ucsd_glidein-2 2.7.3- glite
+ucsd_glidein-2 2.7.3- glidein
+#ucsd_submit-1 2.8.3- remoteGlidein
+ucsd_submit-2 2.8.4- remoteGlidein
+ucsd_submit-3 2.7.3- glidein
+ucsd_submit-4 2.8.4- remoteGlidein
+ucsd_submit-5 2.8.4- remoteGlidein
+unl_hcc-crabserver 2.8.5- remoteGlidein
