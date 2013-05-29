@@ -6,10 +6,10 @@
 # eg: cern 2.4.4- glite
 # means cern, version>=2.4.4 works with glite
 #
-#cern_vocms20 2.8.4- remoteGlidein 
+cern_vocms20 2.8.4- remoteGlidein 
 cern_vocms21 2.7.3- glite
 #cern_vocms22 2.7.3- glite
-#cern_vocms83 2.8.4- remoteGlidein 
+cern_vocms83 2.8.4- remoteGlidein 
 #ucsd_glidein-2 2.7.3- glidein
 #ucsd_submit-3 2.7.3- glidein
 unl_hcc-crabserver 2.8.4- remoteGlidein
