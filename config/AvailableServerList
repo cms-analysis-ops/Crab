@@ -12,7 +12,7 @@ cern_vocms21 2.7.3- glite
 cern_vocms83 2.8.4- remoteGlidein 
 #ucsd_glidein-2 2.7.3- glidein
 #ucsd_submit-3 2.7.3- glidein
-unl_hcc-crabserver 2.8.4- remoteGlidein
+#unl_hcc-crabserver 2.8.4- remoteGlidein
 #ucsd_submit-1 2.8.3- remoteGlidein
 #ucsd_submit-2 2.8.4- remoteGlidein
 ucsd_submit-4 2.8.4- remoteGlidein
