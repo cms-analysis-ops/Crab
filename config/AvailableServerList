@@ -14,8 +14,8 @@
 # https://github.com/cms-analysis-ops/Crab
 #
 #cern_vocms20 2.8.4- remoteGlidein 
-#cern_vocms0117 2.8.4- remoteGlidein
-#cern_vocms0117 2.8.4- remoteGlidein
+cern_vocms0117 2.8.4- remoteGlidein
+cern_vocms0117 2.8.4- remoteGlidein
 #ucsd_glidein-2 2.7.3- glidein
 #ucsd_submit-3 2.7.3- glidein
 unl_hcc-crabserver 2.8.4- remoteGlidein
