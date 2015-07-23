@@ -6,6 +6,7 @@
 # eg: cern 2.4.4- glite
 # means cern, version>=2.4.4 works with glite
 #
+#
 # this file is read by Crab2 client at
 # https://cmsdoc.cern.ch/cms/LCG/crab/config/AvailableServerList
 # and is physically located at
